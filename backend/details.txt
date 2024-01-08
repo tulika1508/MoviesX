@@ -1,0 +1,4 @@
+We ollow the NVC Structure here.
+Created controller for controlling the works of adding a movie to favorites,removing it from list according to email id.
+Creating model of the userSchema(email and array of liked movies of that email id).
+Creating routes for specific works being routed to locations.
